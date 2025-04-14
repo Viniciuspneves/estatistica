@@ -1,0 +1,23 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoists/
+
+# Dados sensíveis ou pesados
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.zip
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Pycharm / VSCode / Jupyter
+.idea/
+.vscode/
+__pycache__/
+
+# Ambiente virtual
+.venv/
+env/
+venv/
