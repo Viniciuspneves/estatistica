@@ -45,7 +45,7 @@ Este arquivo contém os principais símbolos e letras utilizados nas fórmulas e
 ### $f_{r\%i}$ — Frequência Relativa Percentual
 
 - **Definição:** Frequência relativa expressa em porcentagem.
-- **Fórmula:** $f_{r\%i} = \dfrac{f_i}{n} \cdot 100$
+- **Fórmula:** $f_{r_i} = \dfrac{f_i}{n} \cdot 100$
 - **Exemplo:** $25\%$
 
 ---
