@@ -13,7 +13,7 @@ Este arquivo contém os principais símbolos e letras utilizados nas fórmulas e
 | $n$             | Total de dados                      | Tamanho da amostra                                          |
 | $f_i$           | Frequência Absoluta                 | Quantidade de vezes que o valor aparece                    |
 | $f_{r_i}$       | Frequência Relativa                 | Proporção em relação ao total                              |
-| $f_{r\%i}$      | Frequência Relativa Percentual      | Frequência em porcentagem                                  |
+| $f_{ri}$ (%)      | Frequência Relativa Percentual      | Frequência em porcentagem                                  |
 | $F_i$           | Frequência Acumulada Absoluta       | Soma das frequências até o valor $i$                       |
 | $F_{r_i}$       | Frequência Acumulada Relativa       | Soma das proporções até o valor $i$                        |
 | $\sum$          | Somatório                           | Soma de valores sequenciais                                |
@@ -42,7 +42,7 @@ Este arquivo contém os principais símbolos e letras utilizados nas fórmulas e
 
 ---
 
-### $f_{r\%i}$ — Frequência Relativa Percentual
+### $f_{ri}$ (%): — Frequência Relativa Percentual
 
 - **Definição:** Frequência relativa expressa em porcentagem.
 - **Fórmula:** $f_{r_i} = \dfrac{f_i}{n} \cdot 100$
